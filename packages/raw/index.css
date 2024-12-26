@@ -125,6 +125,7 @@ hr:after {
 }
 
 a {
+  text-decoration-line: underline;
   text-decoration-thickness: var(--border-thickness);
 }
 
